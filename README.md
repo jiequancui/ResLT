@@ -18,7 +18,7 @@ If you find this code or idea useful, please consider citing our work:
 In this paper, we proposed a residual learning method to address long-tailed recognition, which contains a **Residual Fusion Module** and a **Parameter Specialization Mechanism**.
 With extensive ablation studies, we demonstrate the effectiveness of our method.  
 
-![image](http://github.com/itmyhome2013/readme_add_pic/raw/master/images/nongshalie.jpg)
+![image](https://github.com/FPNAS/ResLT/blob/main/assets/reslt.jpg)
 
 
 
