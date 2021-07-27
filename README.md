@@ -4,13 +4,11 @@ This repository contains the implementation code for paper:
   
 If you find this code or idea useful, please consider citing our work:
 ```
-@misc{cui2021reslt,
-      title={ResLT: Residual Learning for Long-tailed Recognition}, 
-      author={Jiequan Cui and Shu Liu and Zhuotao Tian and Zhisheng Zhong and Jiaya Jia},
-      year={2021},
-      eprint={2101.10633},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{cui2021reslt,
+  title={ResLT: Residual Learning for Long-tailed Recognition},
+  author={Cui, Jiequan and Liu, Shu and Tian, Zhuotao and Zhong, Zhisheng and Jia, Jiaya},
+  journal={arXiv preprint arXiv:2101.10633},
+  year={2021}
 }
 ```  
 
