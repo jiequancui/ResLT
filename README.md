@@ -48,21 +48,21 @@ CIFAR-100-imb0.02 | -
 CIFAR-100-imb0.1  | -
 
 ### ImageNet-LT
-Model | Download
----- | ---
-ResNet-10   | -
-ResNeXt-50  | -
-ResNeXt-101 | -
+Model | Download | log 
+---- | --- | ---
+ResNet-10   | [model](https://drive.google.com/file/d/1n1s68gQkty1bl0hNL9rd-56PcBg21tkM/view?usp=sharing) | [log](https://drive.google.com/file/d/1NVyS-bihpkYOuJ4-KHezfVK5Sw0-gQVB/view?usp=sharing)
+ResNeXt-50  | [model](https://drive.google.com/file/d/1W7uv5O18LHyX6jUWtLF2s9LtwAEtvgG_/view?usp=sharing) | [log](https://drive.google.com/file/d/1pYCHSaYAJ7g75lMbHvOgJUlMDiGohGSv/view?usp=sharing)
+ResNeXt-101 | [model](https://drive.google.com/file/d/1qyIShPI2UIt1e9IIouScHy0UC146ZTuL/view?usp=sharing) | [log](https://drive.google.com/file/d/1xM5wJECYpHHYE4erJhLs8BSwrpr6OzmI/view?usp=sharing)
 
 ### iNatualist 2018
-Model | Download
----- | ----
-ResNet-50 | -
+Model | Download | log
+---- | ---- | ----
+ResNet-50 | [model](https://drive.google.com/file/d/1xxUYtJ0hJHUwb-JaZ5kdovF_lowyEZSD/view?usp=sharing) | [log](https://drive.google.com/file/d/1VlZryf03ujUPhhQ8eTYYM23BsD9oOTg1/view?usp=sharing)
 
 ### Places-LT
-Model | Download
----- | ----
-ResNet-152 | -
+Model | Download | log
+---- | ---- | ----
+ResNet-152 | - | -
 
 # Acknowledgements
 This code is partly based on the open-source implementations from offical PyTorch examples and [LDAM-DRW](https://github.com/kaidic/LDAM-DRW).
