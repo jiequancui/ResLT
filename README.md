@@ -12,6 +12,19 @@ If you find this code or idea useful, please consider citing our work:
 }
 ```  
 
+
+# Updates
+We further verifty the proposed ResLT is complementary to ensemble-based methods. Equipped with RIDEResNeXt, our model achieves better results. All experiments are conducted without knowledge distillation for fair comparison. For RIDE, we use their public code and train 180 epochs.
+
+### ImageNet-LT
+Model |Top-1 Acc | Download | log 
+---- | --- | --- | ---
+RIDEResNeXt(3 experts)        | 55.1 | - | -
+RIDEResNeXt-ResLT(3 experts)  |  | TBD | TBD
+
+
+
+
 # Overview
 In this paper, we proposed a residual learning method to address long-tailed recognition, which contains a **Residual Fusion Module** and a **Parameter Specialization Mechanism**.
 With extensive ablation studies, we demonstrate the effectiveness of our method.  
@@ -53,6 +66,8 @@ Model | Download | log
 ResNet-10   | [model](https://drive.google.com/file/d/1n1s68gQkty1bl0hNL9rd-56PcBg21tkM/view?usp=sharing) | [log](https://drive.google.com/file/d/1NVyS-bihpkYOuJ4-KHezfVK5Sw0-gQVB/view?usp=sharing)
 ResNeXt-50  | [model](https://drive.google.com/file/d/1W7uv5O18LHyX6jUWtLF2s9LtwAEtvgG_/view?usp=sharing) | [log](https://drive.google.com/file/d/1pYCHSaYAJ7g75lMbHvOgJUlMDiGohGSv/view?usp=sharing)
 ResNeXt-101 | [model](https://drive.google.com/file/d/1qyIShPI2UIt1e9IIouScHy0UC146ZTuL/view?usp=sharing) | [log](https://drive.google.com/file/d/1xM5wJECYpHHYE4erJhLs8BSwrpr6OzmI/view?usp=sharing)
+
+
 
 ### iNatualist 2018
 Model | Download | log
