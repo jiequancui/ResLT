@@ -20,7 +20,7 @@ We further verifty the proposed ResLT is complementary to ensemble-based methods
 Model |Top-1 Acc | Download | log 
 ---- | --- | --- | ---
 RIDEResNeXt(3 experts)        | 55.1 | - | -
-RIDEResNeXt-ResLT(3 experts)  |  | TBD | TBD
+RIDEResNeXt-ResLT(3 experts)  | 57.6 | TBD | TBD
 
 
 
