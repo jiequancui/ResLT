@@ -19,8 +19,14 @@ We further verifty the proposed ResLT is complementary to ensemble-based methods
 ### ImageNet-LT
 Model |Top-1 Acc | Download | log 
 ---- | --- | --- | ---
-RIDEResNeXt(3 experts)        | 55.1 | - | -
-RIDEResNeXt-ResLT(3 experts)  | 57.6 | TBD | TBD
+RIDEResNeXt(3 experts)        | 55.1 | - | [log](https://drive.google.com/file/d/1Xv06BOrpFoj7eArwTBnHU2nVVYM016CB/view?usp=sharing)
+RIDEResNeXt-ResLT(3 experts)  | 57.6 | [model](https://drive.google.com/file/d/1IgC9N4LbjRDqM2N1dndKIAwFB-5giUgK/view?usp=sharing) | [log](https://drive.google.com/file/d/15yeaaOvY596lT5cv0vXUyVEVaVJJBP_b/view?usp=sharing)
+
+### Inaturalist 2018
+Model |Top-1 Acc | Download | log 
+---- | --- | --- | ---
+RIDEResNeXt(3 experts)        | 70.8 | - | [log](https://drive.google.com/file/d/1ssoFupuQJ0k37TVmMAWSGlB8aXt1xqCZ/view?usp=sharing)
+RIDEResNeXt-ResLT(3 experts)  | 72.9 | [model](https://drive.google.com/file/d/11xE2KUvb5M8caR1MEWOYp1BnUO7Ny-vO/view?usp=sharing) | [log](https://drive.google.com/file/d/1Z_IDcuf5nuP0eISQOOyaLXB4vV2DuujN/view?usp=sharing)
 
 
 
