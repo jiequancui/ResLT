@@ -1,4 +1,4 @@
-# ResLT: Residual Learning for Long-tailed Recognition
+# ResLT: Residual Learning for Long-tailed Recognition (TPAMI 2022)
 This repository contains the implementation code for paper:  
 **Residual Learning for Long-tailed Recognition** https://arxiv.org/abs/2101.10633    
   
