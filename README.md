@@ -1,17 +1,6 @@
 # ResLT: Residual Learning for Long-tailed Recognition (TPAMI 2022)
 This repository contains the implementation code for paper:  
 **Residual Learning for Long-tailed Recognition** https://arxiv.org/abs/2101.10633    
-  
-If you find this code or idea useful, please consider citing our work:
-```
-@article{cui2021reslt,
-  title={ResLT: Residual Learning for Long-tailed Recognition},
-  author={Cui, Jiequan and Liu, Shu and Tian, Zhuotao and Zhong, Zhisheng and Jia, Jiaya},
-  journal={arXiv preprint arXiv:2101.10633},
-  year={2021}
-}
-```  
-
 
 # Updates
 We further verifty the proposed ResLT is complementary to ensemble-based methods. Equipped with RIDEResNeXt, our model achieves better results. All experiments are conducted without knowledge distillation for fair comparison. For RIDE, we use their public code and train 180 epochs.
@@ -91,6 +80,19 @@ This code is partly based on the open-source implementations from offical PyTorc
 # Contact
 If you have any questions, feel free to contact us through email (jiequancui@link.cuhk.edu.hk) or Github issues. Enjoy!
 
+# BibTex
+If you find this code or idea useful, please consider citing our work:
+```
+@ARTICLE{9774921,
+  author={Cui, Jiequan and Liu, Shu and Tian, Zhuotao and Zhong, Zhisheng and Jia, Jiaya},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={ResLT: Residual Learning for Long-tailed Recognition}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TPAMI.2022.3174892}}
+```  
 
 
 
