@@ -45,16 +45,6 @@ bash sh/R50.sh
 ```
 
 ## Results and Models
-### CIFAR
-Model | Download
----- | ---
-CIFAR-10-imb0.01 | -
-CIFAR-10-imb0.02 | -
-CIFAR-10-imb0.1  | -
-CIFAR-100-imb0.01 | -
-CIFAR-100-imb0.02 | -
-CIFAR-100-imb0.1  | -
-
 ### ImageNet-LT
 Model | Download | log 
 ---- | --- | ---
