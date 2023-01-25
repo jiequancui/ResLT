@@ -15,7 +15,7 @@ python ImageNetTrain_reslt_ride.py \
   --arch ResNeXt50Model \
   --mark ResNeXt50Model_reslt_ride \
   -dataset ImageNet \
-  --data_path /research/dept6/jqcui/Data/ImageNet \
+  --data_path /mnt/proj75/jqcui/Data/ImageNet \
   -b 128 \
   --epochs 180 \
   --num_works 40 \

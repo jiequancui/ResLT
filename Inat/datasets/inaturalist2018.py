@@ -88,8 +88,8 @@ class iNaturalist2018(object):
                 transforms.ToTensor(),
                 normalize,
             ])
-        train_txt="/research/dept6/jqcui/Data/iNaturalist2018/iNaturalist18_train.txt"
-        val_txt="/research/dept6/jqcui/Data/iNaturalist2018/iNaturalist18_val.txt"
+        train_txt="datasets/txts/iNaturalist18/iNaturalist18_train.txt"
+        val_txt="datasets/txts/iNaturalist18/iNaturalist18_val.txt"
         trainset = LT_Dataset(root, train_txt, transform=transform_train, class_balance=class_balance)
         testset = LT_Dataset_Test(root, val_txt, transform=transform_test, class_map=trainset.class_map)
 

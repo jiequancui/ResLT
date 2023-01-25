@@ -88,9 +88,9 @@ class ImageNet(object):
                 transforms.ToTensor(),
                 normalize,
             ])
-        train_txt="/research/dept6/jqcui/Data/ImageNet_LT/ImageNet_LT_train.txt"
-        val_txt="/research/dept6/jqcui/Data/ImageNet_LT/ImageNet_LT_val.txt"
-        test_txt="/research/dept6/jqcui/Data/ImageNet_LT/ImageNet_LT_test.txt"
+        train_txt="datasets/txts/ImageNet_LT/ImageNet_LT_train.txt"
+        val_txt="datasets/txts/ImageNet_LT/ImageNet_LT_val.txt"
+        test_txt="datasets/txts/ImageNet_LT/ImageNet_LT_test.txt"
 
         trainset = LT_Dataset(root, train_txt, transform=transform_train, class_balance=class_balance)
         testset = LT_Dataset_Test(root, test_txt, transform=transform_test, class_map=trainset.class_map)
