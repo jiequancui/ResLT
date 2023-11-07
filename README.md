@@ -71,7 +71,7 @@ This code is partly based on the open-source implementations from offical PyTorc
 If you have any questions, feel free to contact us through email (jiequancui@link.cuhk.edu.hk) or Github issues. Enjoy!
 
 # BibTex
-If you find this code or idea useful, please consider citing our work:
+If you find this code or idea useful, please consider citing our works:
 ```
 @ARTICLE{9774921,
   author={Cui, Jiequan and Liu, Shu and Tian, Zhuotao and Zhong, Zhisheng and Jia, Jiaya},
@@ -82,6 +82,39 @@ If you find this code or idea useful, please consider citing our work:
   number={3},
   pages={3695-3706},
   doi={10.1109/TPAMI.2022.3174892}}
+
+@ARTICLE{10130611,
+  author={Cui, Jiequan and Zhong, Zhisheng and Tian, Zhuotao and Liu, Shu and Yu, Bei and Jia, Jiaya},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Generalized Parametric Contrastive Learning}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-12},
+  doi={10.1109/TPAMI.2023.3278694}}
+
+
+@inproceedings{cui2021parametric,
+  title={Parametric contrastive learning},
+  author={Cui, Jiequan and Zhong, Zhisheng and Liu, Shu and Yu, Bei and Jia, Jiaya},
+  booktitle={Proceedings of the IEEE/CVF international conference on computer vision},
+  pages={715--724},
+  year={2021}
+}
+  
+@article{cui2022region,
+  title={Region Rebalance for Long-Tailed Semantic Segmentation},
+  author={Cui, Jiequan and Yuan, Yuhui and Zhong, Zhisheng and Tian, Zhuotao and Hu, Han and Lin, Stephen and Jia, Jiaya},
+  journal={arXiv preprint arXiv:2204.01969},
+  year={2022}
+  }
+  
+@article{zhong2023understanding,
+  title={Understanding Imbalanced Semantic Segmentation Through Neural Collapse},
+  author={Zhong, Zhisheng and Cui, Jiequan and Yang, Yibo and Wu, Xiaoyang and Qi, Xiaojuan and Zhang, Xiangyu and Jia, Jiaya},
+  journal={arXiv preprint arXiv:2301.01100},
+  year={2023}
+}
 
 ```  
 
